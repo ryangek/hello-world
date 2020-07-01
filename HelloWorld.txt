@@ -1,1 +1,3 @@
 What is this ?
+
+SELECT * FROM world WHERE people = 'CRAZY';
